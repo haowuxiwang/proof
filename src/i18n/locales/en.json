@@ -1,0 +1,155 @@
+{
+  "app": {
+    "title": "Proof",
+    "subtitle": "Resume Builder",
+    "autoSaved": "Auto-saved",
+    "somethingWentWrong": "Something went wrong",
+    "tryAgain": "Try again",
+    "reset": "Reset",
+    "resetConfirm": "Are you sure you want to reset all data? This action cannot be undone."
+  },
+  "nav": {
+    "personal": "Personal",
+    "skills": "Skills",
+    "work": "Work",
+    "education": "Education",
+    "projects": "Projects"
+  },
+  "wizard": {
+    "personalDesc": "Fill in your basic info — this appears at the top of your resume",
+    "skillsDesc": "List your professional skills, grouped by category",
+    "experienceDesc": "Describe your work history, highlight key achievements",
+    "educationDesc": "Add your educational background",
+    "projectsDesc": "Showcase your best projects and technical abilities",
+    "prev": "Back",
+    "next": "Next"
+  },
+  "actions": {
+    "save": "Save",
+    "export": "Export"
+  },
+  "export": {
+    "title": "Export Resume",
+    "pdf": "PDF — Best for printing and ATS",
+    "html": "HTML — Editable webpage",
+    "png": "PNG — For social media sharing",
+    "exporting": "Exporting...",
+    "exportAs": "Export as {{format}}",
+    "success": "Export successful",
+    "error": "Export failed, please try again",
+    "errorNoContent": "No content to export"
+  },
+  "template": {
+    "title": "Choose Template",
+    "classic": "Classic",
+    "minimal": "Minimal",
+    "modern": "Modern",
+    "executive": "Executive",
+    "single": "Single",
+    "twoCol": "Two-col",
+    "sidebar": "Sidebar"
+  },
+  "preview": {
+    "title": "Preview",
+    "exportBtn": "Export Resume",
+    "empty": "Start building your resume",
+    "emptyDesc": "Fill in your information on the left and see it appear here in real time",
+    "show": "Show Preview",
+    "hide": "Hide Preview",
+    "close": "Close preview"
+  },
+  "form": {
+    "fullName": "Full Name",
+    "jobTitle": "Job Title",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "github": "GitHub",
+    "website": "Website",
+    "summary": "Professional Summary",
+    "company": "Company",
+    "position": "Position",
+    "startDate": "Start Date",
+    "endDate": "End Date",
+    "description": "Description",
+    "keyAchievements": "Key Achievements",
+    "school": "School",
+    "degree": "Degree",
+    "major": "Major",
+    "projectName": "Project Name",
+    "link": "Link",
+    "techStack": "Tech Stack",
+    "skillCategory": "Skill Category"
+  },
+  "empty": {
+    "experience": "No experience yet",
+    "experienceDesc": "Add your work history",
+    "education": "No education yet",
+    "educationDesc": "Add your educational background",
+    "projects": "No projects yet",
+    "projectsDesc": "Showcase your best work"
+  },
+  "buttons": {
+    "addExperience": "Add Experience",
+    "addEducation": "Add Education",
+    "addProject": "Add Project",
+    "addCategory": "Add Category",
+    "addSkill": "Add Skill",
+    "addAchievement": "Add Achievement"
+  },
+  "progress": {
+    "title": "Progress"
+  },
+  "section": {
+    "basicInfo": "Basic Info",
+    "contact": "Contact",
+    "onlineProfiles": "Online Profiles",
+    "summary": "Summary"
+  },
+  "hint": {
+    "realName": "Use your real name as you want it to appear on your resume",
+    "targetJob": "The position you're applying for or your current role (optional)",
+    "summaryPlaceholder": "Summarize your career background, core strengths, and goals in 2-3 sentences...",
+    "summaryTip": "A good summary highlights your years of experience, key skills, and unique value",
+    "experienceTip": "Quantify achievements with data — e.g. 'Improved performance by 30%' is more impactful",
+    "projectTip": "Describe what problem the project solved, what tech you used, and what results you achieved",
+    "educationTip": "Highlight education relevant to your target position, focusing on relevant coursework and achievements"
+  },
+  "placeholder": {
+    "name": "e.g. John Smith",
+    "title": "e.g. Full Stack Engineer",
+    "email": "your@email.com",
+    "phone": "+1 234-567-8900",
+    "github": "https://github.com/username",
+    "website": "https://your-site.com",
+    "location": "e.g. New York",
+    "company": "e.g. Google",
+    "position": "e.g. Senior Engineer",
+    "date": "YYYY-MM",
+    "school": "e.g. MIT",
+    "degree": "e.g. Bachelor's",
+    "major": "e.g. Computer Science",
+    "projectName": "e.g. Task Manager",
+    "projectLink": "https://github.com/...",
+    "description": "Describe your role and achievements..."
+  },
+  "expandableCard": {
+    "untitled": "Untitled"
+  },
+  "resume": {
+    "yourName": "Your Name",
+    "jobTitle": "Job Title",
+    "present": "Present",
+    "link": "Link",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "contact": "Contact",
+    "about": "About",
+    "delete": "Delete",
+    "newSchool": "New School",
+    "addSkill": "Add a skill...",
+    "unnamed": "Untitled Resume"
+  }
+}

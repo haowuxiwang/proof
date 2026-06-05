@@ -1,0 +1,158 @@
+{
+  "app": {
+    "title": "Proof",
+    "subtitle": "简历生成器",
+    "autoSaved": "自动保存中",
+    "somethingWentWrong": "出了点问题",
+    "tryAgain": "重试",
+    "reset": "重置",
+    "resetConfirm": "确定要重置所有数据吗？此操作不可撤销。"
+  },
+  "nav": {
+    "personal": "个人信息",
+    "skills": "技能特长",
+    "work": "工作经历",
+    "education": "教育背景",
+    "projects": "项目经验"
+  },
+  "wizard": {
+    "personalDesc": "填写您的基本信息，这些将显示在简历顶部",
+    "skillsDesc": "列出您的专业技能，按类别分组更有条理",
+    "experienceDesc": "描述您的工作经历，突出关键成就",
+    "educationDesc": "添加您的教育背景信息",
+    "projectsDesc": "展示您的代表项目和技术能力",
+    "prev": "上一步",
+    "next": "下一步"
+  },
+  "actions": {
+    "save": "保存",
+    "export": "导出"
+  },
+  "export": {
+    "title": "导出简历",
+    "pdf": "PDF — 最适合打印和 ATS 筛选",
+    "html": "HTML — 可编辑的网页",
+    "png": "PNG — 适合社交媒体分享",
+    "exporting": "导出中...",
+    "exportAs": "导出为 {{format}}",
+    "success": "导出成功",
+    "error": "导出失败，请重试",
+    "errorNoContent": "没有可导出的内容"
+  },
+  "template": {
+    "title": "选择模板",
+    "classic": "经典",
+    "minimal": "简约",
+    "modern": "现代",
+    "executive": "高管",
+    "single": "单栏",
+    "twoCol": "双栏",
+    "sidebar": "侧边栏"
+  },
+  "preview": {
+    "title": "预览",
+    "exportBtn": "导出简历",
+    "empty": "开始创建您的简历",
+    "emptyDesc": "在左侧填写信息，简历将实时显示在此处",
+    "show": "显示预览",
+    "hide": "隐藏预览",
+    "close": "关闭预览"
+  },
+  "form": {
+    "fullName": "姓名",
+    "jobTitle": "职位",
+    "email": "邮箱",
+    "phone": "电话",
+    "location": "所在地",
+    "github": "GitHub",
+    "website": "网站",
+    "summary": "个人简介",
+    "company": "公司",
+    "position": "职位",
+    "startDate": "开始日期",
+    "endDate": "结束日期",
+    "description": "描述",
+    "keyAchievements": "核心成就",
+    "school": "学校",
+    "degree": "学历",
+    "major": "专业",
+    "projectName": "项目名称",
+    "link": "链接",
+    "techStack": "技术栈",
+    "skillCategory": "技能分类"
+  },
+  "empty": {
+    "experience": "暂无工作经历",
+    "experienceDesc": "添加您的工作历史",
+    "education": "暂无教育经历",
+    "educationDesc": "添加您的教育背景",
+    "projects": "暂无项目经验",
+    "projectsDesc": "展示您的代表作品"
+  },
+  "buttons": {
+    "addExperience": "添加经历",
+    "addEducation": "添加教育",
+    "addProject": "添加项目",
+    "addCategory": "添加分类",
+    "addSkill": "添加技能",
+    "addAchievement": "添加成就"
+  },
+  "progress": {
+    "title": "完成进度",
+    "completed": "已完成 {{count}}/{{total}}"
+  },
+  "section": {
+    "basicInfo": "基本信息",
+    "contact": "联系方式",
+    "onlineProfiles": "在线档案",
+    "summary": "个人简介"
+  },
+  "hint": {
+    "realName": "使用您简历上希望显示的真实姓名",
+    "targetJob": "您正在申请的职位或当前职位（选填）",
+    "summaryPlaceholder": "用 2-3 句话概括您的职业背景、核心优势和职业目标...",
+    "summaryTip": "好的简介应该突出您的经验年限、核心技能和独特价值",
+    "experienceTip": "用数据量化成就，如「提升 30% 性能」比「优化性能」更有说服力",
+    "projectTip": "描述项目解决了什么问题，您用了什么技术，取得了什么成果",
+    "educationTip": "选择与目标职位相关的教育经历，突出相关课程和学术成就",
+    "educationTip": "选择与目标职位相关的教育经历，突出相关课程和学术成就"
+  },
+  "placeholder": {
+    "name": "例如：张三",
+    "title": "例如：全栈工程师",
+    "email": "your@email.com",
+    "phone": "+86 138-0000-0000",
+    "github": "https://github.com/username",
+    "website": "https://your-site.com",
+    "location": "例如：北京",
+    "company": "例如：腾讯",
+    "position": "例如：高级工程师",
+    "date": "YYYY-MM",
+    "school": "例如：清华大学",
+    "degree": "例如：本科",
+    "major": "例如：计算机科学",
+    "projectName": "例如：任务管理器",
+    "projectLink": "https://github.com/...",
+    "description": "简要描述您的职责和成果..."
+  },
+  "expandableCard": {
+    "untitled": "未命名"
+  },
+  "resume": {
+    "yourName": "您的姓名",
+    "jobTitle": "职位",
+    "present": "至今",
+    "link": "链接",
+    "skills": "技能",
+    "experience": "工作经历",
+    "education": "教育背景",
+    "projects": "项目经验",
+    "contact": "联系方式",
+    "about": "关于",
+    "delete": "删除",
+    "newCategory": "新分类",
+    "newSchool": "新学校",
+    "addSkill": "添加技能...",
+    "unnamed": "未命名简历"
+  }
+}
